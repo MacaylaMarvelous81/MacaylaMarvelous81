@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical"></img>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical"></img>
+
+
 📫 How to reach me, from most preferred to least:
-* Keybase [https://keybase.io/unbreakinggold](unbreakinggold)
-* Discord TheLegendaryOrb#0772
+- Keybase [https://keybase.io/unbreakinggold](unbreakinggold)
+- Discord TheLegendaryOrb#0772
