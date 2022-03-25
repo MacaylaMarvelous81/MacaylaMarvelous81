@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me, from most preferred to least:
-- Keybase [https://keybase.io/unbreakinggold](unbreakinggold)
+- Keybase [unbreakinggold](https://keybase.io/unbreakinggold)
 - Discord TheLegendaryOrb#0772
