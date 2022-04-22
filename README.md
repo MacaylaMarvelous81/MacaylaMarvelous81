@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me, from most preferred to least:
-- Keybase [unbreakinggold](https://keybase.io/unbreakinggold)
-- Discord TheLegendaryOrb#0772
+- EMail: [ilovetirzah+dev@gmail.com](mailto:ilovetirzah+dev@gmail.com]
+- Keybase: [unbreakinggold](https://keybase.io/unbreakinggold)
+- Discord: TheLegendaryOrb#0772
+- IRC: UnbreakingGold@irc.libera.chat
+
+EMail should be encrypted and/or signed with GPG key 151D645FB64F179D.
