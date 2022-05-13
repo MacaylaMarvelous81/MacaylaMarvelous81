@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical"></img>
+![GitHub README stats](https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical)
 [![Discord Presence](https://lanyard.cnrad.dev/api/265997608206598147)](https://discord.com/users/265997608206598147)
 
 
