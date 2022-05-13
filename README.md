@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 - Keybase: [unbreakinggold](https://keybase.io/unbreakinggold)
 - Discord: TheLegendaryOrb#0772
 - IRC: UnbreakingGold@irc.libera.chat
-
-EMail should be encrypted and/or signed with GPG key 151D645FB64F179D.
