@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical"></img>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/265997608206598147)](https://discord.com/users/265997608206598147)
+
 
 📫 How to reach me, from most preferred to least:
 - EMail: [ilovetirzah+dev@gmail.com](mailto:ilovetirzah+dev@gmail.com]
