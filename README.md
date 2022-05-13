@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub README stats](https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical)
 [![Discord Presence](https://lanyard.cnrad.dev/api/265997608206598147)](https://discord.com/users/265997608206598147)
-
+![GitHub README stats](https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical)
 
 📫 How to reach me, from most preferred to least:
 - EMail: [ilovetirzah+dev@gmail.com](mailto:ilovetirzah+dev@gmail.com]
