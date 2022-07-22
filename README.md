@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 [![Discord Presence](https://lanyard.cnrad.dev/api/265997608206598147)](https://discord.com/users/265997608206598147)
 ![GitHub README stats](https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical)
 
+# My new projects are on [sourcehut!](https://sr.ht/~macaylamarvelous81)
+
 📫 How to reach me, from most preferred to least:
-- EMail: [ilovetirzah+dev@gmail.com](mailto:ilovetirzah+dev@gmail.com]
+- EMail: [ilovetirzah@gmail.com](mailto:ilovetirzah@gmail.com]
 - Keybase: [unbreakinggold](https://keybase.io/unbreakinggold)
 - Discord: TheLegendaryOrb#0772
 - IRC: UnbreakingGold@irc.libera.chat
