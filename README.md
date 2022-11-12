@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 📫 How to reach me, from most preferred to least:
 - EMail: [ilovetirzah@gmail.com](mailto:ilovetirzah@gmail.com]
 - Matrix: @jomarm:matrix.wardenbypass.tk
+- Mastodon: [@jomarm@mastodon.wardenbypass.tk](https://mastodon.wardenbypass.tk)
 - Discord: TheLegendaryOrb#0772
