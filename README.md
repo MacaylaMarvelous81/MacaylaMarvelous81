@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![GitHub README stats](https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical)
 
 📫 How to reach me, from most preferred to least:
-- Matrix: [https://matrix.to/#/@jomarm:matrix.wardenbypass.tk](matrix.wardenbypass.tk)
+- Matrix: [matrix.wardenbypass.tk](https://matrix.to/#/@jomarm:matrix.wardenbypass.tk)
 - Mastodon: [@jomarm@mastodon.wardenbypass.tk](https://mastodon.wardenbypass.tk)
 - EMail: [ilovetirzah@gmail.com](mailto:ilovetirzah@gmail.com]
 - Discord: TheLegendaryOrb#0772
