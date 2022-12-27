@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![GitHub README stats](https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical)
 
 📫 Contact me!
-- EMail: [macaylamarvelous81@pm.me](mailto:macaylamarvelous81@pm.me)
+- EMail: [macaylamarvelous81@proton.me](mailto:macaylamarvelous81@proton.me)
