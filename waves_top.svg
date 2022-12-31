@@ -9,6 +9,10 @@
   <use href="#wave" class="wave3" fill-opacity="0.15" />
   <use href="#wave" class="wave3" x="-100%" fill-opacity="0.15" />
   <style>
+    svg {
+      border-radius: 25px;
+    }
+    
     .wave1 {
       animation: wave1 8s linear infinite;
     }
