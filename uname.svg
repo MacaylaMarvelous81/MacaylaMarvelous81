@@ -43,5 +43,5 @@
     }
   </style>
   <text class="user" x="50%" y="50%">MacaylaMarvelous81</text>
-  <rect x="calc(50% + 9.5ch)" y="calc(50% + 10px)" class="caret" width="50" height="10"/>
+  <rect x="calc(50% + 10ch)" y="calc(50% + 10px)" class="caret" width="50" height="10"/>
 </svg>
