@@ -2,8 +2,8 @@
   <defs>
     <path id="wave" fill="#0099ff" d="M0,96L60,85.3C120,75,240,53,360,42.7C480,32,600,32,720,42.7C840,53,960,75,1080,96C1200,117,1320,139,1380,149.3L1440,160L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z" />
   </defs>
-  <use href="#wave" fill-opacity="0.8" />
-  <use href="#wave" fill-opacity="0.45" />
-  <use href="#wave" fill-opacity="0.3" />
-  <use href="#wave" fill-opacity="0.15" />
+  <use href="#wave" x="-3px" fill-opacity="0.8" />
+  <use href="#wave" x="-5px" fill-opacity="0.45" />
+  <use href="#wave" x="-10px" fill-opacity="0.3" />
+  <use href="#wave" x="-12px" fill-opacity="0.15" />
 </svg>
