@@ -1,3 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <rect width="100%" height="100%" fill="#121212" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 482">
+  <rect class="bg" width="100%" height="100%" fill="#51b8fc" />
+  <style>
+    .bg {
+      position: absolute;
+      left: 0;
+      top: 0;
+      x-index: -1;
+    }
+  </style>
 </svg>
