@@ -21,4 +21,5 @@ Retrieve my git PGP keys at [https://github.com/MacaylaMarvelous81.gpg](https://
 Note: These are not all my keys, I use some outside of git.
 
 📫 Contact me!
-- EMail: [macaylamarvelous81@proton.me](mailto:macaylamarvelous81@proton.me)
+- Email: [macaylamarvelous81@proton.me](mailto:macaylamarvelous81@proton.me)
+- Mastodon: [@jomarm@mas.town](https://mas.town/@jomarm)
