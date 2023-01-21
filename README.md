@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/265997608206598147)](https://discord.com/users/265997608206598147)
-![GitHub README stats](https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical)
+[![Discord Presence](https://lanyard.cnrad.dev/api/265997608206598147)](https://discord.com/users/265997608206598147)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacaylaMarvelous81&langs_count=10&hide_border=true&theme=shades-of-purple)
 
 Retrieve my git PGP keys at [https://github.com/MacaylaMarvelous81.gpg](https://github.com/MacaylaMarvelous81.gpg)  
 Note: These are not all my keys, I use some outside of git.
