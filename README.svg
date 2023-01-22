@@ -71,4 +71,9 @@
     <use href="#star" transform="scale(0.1)" fill="#fde047" x="1450" y="6400" />
     <text class="social" x="210" y="680" fill="#fff">tModLoader/tModLoader</text>
   </g>
+  <g transform="rotate(4)">
+    <rect x="800" y="480" width="600" height="100" rx="15" fill="#29295e" />
+    <use href="#star" transform="scale(0.1)" fill="#fde047" x="8100" y="5000" />
+    <text class="social" x="860" y="540" fill="#fff">justcoding121/titanium-web-proxy</text>
+  </g>
 </svg>
