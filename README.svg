@@ -36,20 +36,6 @@
       font-size: 2em;
       fill: #fff;
     }
-
-    .hr {
-      animation: hr 60s linear infinite;
-    }
-
-    @keyframes hr {
-      from {
-        stroke-dashoffset: 0%;
-      }
-
-      to {
-        stroke-dashoffset: -200%;
-      }
-    }
   </style>
   <rect width="1440" height="800" fill="#1c1c45" />
   <text class="uname" x="720" y="160">MacaylaMarvelous81</text>
@@ -59,7 +45,9 @@
   <text class="social" x="710" y="230">macaylamarvelous81@proton.me</text>
   <use href="#key" transform="scale(0.1)" fill="#fff" x="5500" y="2500" />
   <text class="social tcenter" x="623" y="284" fill="#fff">FC4F157090ECD322</text>
-  <path class="hr" d="M30,350 L1410,350" stroke="#fff" stroke-width="6" stroke-dasharray="10,10" />
+  <path d="M30,350 L1410,350" stroke="#fff" stroke-width="6" stroke-dasharray="10,10">
+    <animate attributeName="stroke-dashoffset" values="0;-100%" dur="60s" repeatCount="infinite" />
+  </path>
   <text class="heading" x="720" y="400">Featured Repositories</text>
   <g transform="rotate(-3)">
     <rect x="30" y="480" width="600" height="100" rx="15" fill="#29295e" />
