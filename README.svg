@@ -5,6 +5,18 @@
     <path id="key" d="M218.1 167.17c0 13 0 25.6 4.1 37.4-43.1 50.6-156.9 184.3-167.5 194.5a20.17 20.17 0 00-6.7 15c0 8.5 5.2 16.7 9.6 21.3 6.6 6.9 34.8 33 40 28 15.4-15 18.5-19 24.8-25.2 9.5-9.3-1-28.3 2.3-36s6.8-9.2 12.5-10.4 15.8 2.9 23.7 3c8.3.1 12.8-3.4 19-9.2 5-4.6 8.6-8.9 8.7-15.6.2-9-12.8-20.9-3.1-30.4s23.7 6.2 34 5 22.8-15.5 24.1-21.6-11.7-21.8-9.7-30.7c.7-3 6.8-10 11.4-11s25 6.9 29.6 5.9c5.6-1.2 12.1-7.1 17.4-10.4 15.5 6.7 29.6 9.4 47.7 9.4 68.5 0 124-53.4 124-119.2S408.5 48 340 48s-121.9 53.37-121.9 119.17zM400 144a32 32 0 11-32-32 32 32 0 0132 32z" />
     <path id="bookmark" d="M400 480a16 16 0 01-10.63-4L256 357.41 122.63 476A16 16 0 0196 464V96a64.07 64.07 0 0164-64h192a64.07 64.07 0 0164 64v368a16 16 0 01-16 16z"/>
     <path id="star" d="M394 480a16 16 0 01-9.39-3L256 383.76 127.39 477a16 16 0 01-24.55-18.08L153 310.35 23 221.2a16 16 0 019-29.2h160.38l48.4-148.95a16 16 0 0130.44 0l48.4 149H480a16 16 0 019.05 29.2L359 310.35l50.13 148.53A16 16 0 01394 480z"/>
+    <linearGradient id="hrgradient" gradientUnits="userSpaceOnUse" x1="30" y1="350" x2="1410" y2="350">
+      <stop offset="5%" stop-color="#62efab" />
+      <stop offset="15%" stop-color="#f2ea7d" />
+      <stop offset="25%" stop-color="#f2ea7d" />
+      <stop offset="35%" stop-color="#ff8797" />
+      <stop offset="45%" stop-color="#ff8797" />
+      <stop offset="55%" stop-color="#e1a4f4" />
+      <stop offset="65%" stop-color="#e1a4f4" />
+      <stop offset="75%" stop-color="#82fff4" />
+      <stop offset="85%" stop-color="#82fff4" />
+      <stop offset="95%" stop-color="#62efab" />
+    </linearGradient>
   </defs>
   <style>
     @font-face {
@@ -45,7 +57,7 @@
   <text class="social" x="710" y="230">macaylamarvelous81@proton.me</text>
   <use href="#key" transform="scale(0.1)" fill="#fff" x="5500" y="2500" />
   <text class="social tcenter" x="623" y="284" fill="#fff">FC4F157090ECD322</text>
-  <path d="M30,350 L1410,350" stroke="#fff" stroke-width="6" stroke-dasharray="10,10">
+  <path d="M30,350 L1410,350" stroke="url(#hrgradient)" stroke-width="6" stroke-dasharray="10,10">
     <animate attributeName="stroke-dashoffset" values="0;-100%" dur="60s" repeatCount="infinite" />
   </path>
   <text class="heading" x="720" y="400">Featured Repositories</text>
