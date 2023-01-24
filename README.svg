@@ -56,7 +56,7 @@
   <use href="#mail" transform="scale(0.1)" fill="#fff" x="6500" y="2000" />
   <text class="social" x="710" y="230">macaylamarvelous81@proton.me</text>
   <use href="#key" transform="scale(0.1)" fill="#fff" x="5500" y="2500" />
-  <text class="social tcenter" x="623" y="284" fill="#fff">FC4F157090ECD322</text>
+  <text class="social tcenter" x="623" y="284">FC4F157090ECD322</text>
   <path d="M30,350 L1410,350" stroke="url(#hrgradient)" stroke-width="6" stroke-dasharray="10,10">
     <animate attributeName="stroke-dashoffset" values="0;-100%" dur="60s" repeatCount="infinite" />
   </path>
@@ -64,16 +64,21 @@
   <g transform="rotate(-3)">
     <rect x="30" y="480" width="600" height="100" rx="15" fill="#29295e" />
     <use href="#bookmark" transform="scale(0.1)" fill="#d946ef" x="400" y="5000" />
-    <text class="social" x="100" y="535" fill="#fff">MacaylaMarvelous81/MoreApoli</text>
+    <text class="social" x="100" y="535">MacaylaMarvelous81/MoreApoli</text>
   </g>
   <g transform="rotate(2)">
     <rect x="130" y="615" width="600" height="100" rx="15" fill="#29295e" />
     <use href="#star" transform="scale(0.1)" fill="#fde047" x="1450" y="6400" />
-    <text class="social" x="210" y="680" fill="#fff">tModLoader/tModLoader</text>
+    <text class="social" x="210" y="680">tModLoader/tModLoader</text>
   </g>
   <g transform="rotate(4)">
     <rect x="800" y="480" width="600" height="100" rx="15" fill="#29295e" />
     <use href="#star" transform="scale(0.1)" fill="#fde047" x="8100" y="5000" />
-    <text class="social" x="860" y="540" fill="#fff">justcoding121/titanium-web-proxy</text>
+    <text class="social" x="860" y="540">justcoding121/titanium-web-proxy</text>
   </g>
+  <g transform="rotate(1)">
+    <rect x="800" y="670" width="600" height="100" rx="15" fill="#29295e" />
+    <use href="#star" transform="scale(0.1)" fill="#fde047" x="8100" y="7000" />
+    <text class="social" x="870" y="740">emersion/hydroxide</text>
+ </g>
 </svg>
