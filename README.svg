@@ -57,7 +57,7 @@
   <text class="social" x="710" y="230">macaylamarvelous81@proton.me</text>
   <use href="#key" transform="scale(0.1)" fill="#fff" x="5500" y="2500" />
   <text class="social tcenter" x="623" y="284">FC4F157090ECD322</text>
-  <path d="M30,350 L1410,350" stroke="url(#hrgradient)" stroke-width="6" stroke-dasharray="10,10">
+  <path d="M30,320 L1410,320" stroke="url(#hrgradient)" stroke-width="6" stroke-dasharray="10,10">
     <animate attributeName="stroke-dashoffset" values="0;-100%" dur="60s" repeatCount="infinite" />
   </path>
   <text class="heading" x="720" y="400">Featured Repositories</text>
