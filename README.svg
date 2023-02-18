@@ -51,10 +51,10 @@
   </style>
   <rect width="1440" height="800" fill="#1c1c45" />
   <text class="uname" x="720" y="160">MacaylaMarvelous81</text>
-  <use href="#logo-mastodon" transform="scale(0.1)" fill="#fff" x="2500" y="2000" />
-  <text class="social" x="310" y="230">@jomarm@mas.town</text>
-  <use href="#mail" transform="scale(0.1)" fill="#fff" x="6500" y="2000" />
-  <text class="social" x="710" y="230">macaylamarvelous81@proton.me</text>
+  <use href="#logo-mastodon" transform="scale(0.1)" fill="#fff" x="2000" y="2000" />
+  <text class="social" x="260" y="230">@jomarm@craftodon.social</text>
+  <use href="#mail" transform="scale(0.1)" fill="#fff" x="7050" y="2000" />
+  <text class="social" x="760" y="230">macaylamarvelous81@proton.me</text>
   <use href="#key" transform="scale(0.1)" fill="#fff" x="5500" y="2500" />
   <text class="social tcenter" x="623" y="284">FC4F157090ECD322</text>
   <path d="M30,320 L1410,320" stroke="url(#hrgradient)" stroke-width="6" stroke-dasharray="10,10">
