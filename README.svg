@@ -17,6 +17,9 @@
       <stop offset="85%" stop-color="#82fff4" />
       <stop offset="95%" stop-color="#62efab" />
     </linearGradient>
+    <clipPath id="clip-circle" clipPathUnits="objectBoundingBox">
+      <circle cx="0.5" cy="0.5" r="0.5" />
+    </clipPath>
   </defs>
   <style>
     @font-face {
@@ -50,7 +53,8 @@
     }
   </style>
   <rect width="1440" height="800" fill="#1c1c45" />
-  <text class="uname" x="720" y="160">MacaylaMarvelous81</text>
+  <image href="https://wardenbypass.tk/assets/avatar.gif" x="290" y="100" width="96" height="96" clip-path="url(#clip-circle)" />
+  <text class="uname" x="800" y="160">MacaylaMarvelous81</text>
   <use href="#logo-mastodon" transform="scale(0.1)" fill="#fff" x="2000" y="2000" />
   <text class="social" x="260" y="230">@jomarm@craftodon.social</text>
   <use href="#mail" transform="scale(0.1)" fill="#fff" x="7050" y="2000" />
