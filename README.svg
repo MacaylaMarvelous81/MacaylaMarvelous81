@@ -35,7 +35,7 @@
   <text x="520" y="270" font-family="Outfit" font-size="65" font-weight="700">MacaylaMarvelous81</text>
   <text x="520" y="320" font-family="Outfit" font-size="40" font-weight="400">Jomar Milan</text>
   <use href="#logo-mastodon" transform="scale(0.1)" fill="#563acc" x="3800" y="3500" />
-  <text x="440" y="380" font-family="Outfit" font-size="40" font-weight="400">@jomarm@craftodon.social</text>
+  <text x="440" y="380" font-family="Outfit" font-size="40" font-weight="400">@jomarm@blahaj.zone</text>
   <use href="#mail" transform="scale(0.1)" fill="#000" x="3800" y="4000" />
   <text x="440" y="435" font-family="Outfit" font-size="40" font-weight="400">macaylamarvelous81@proton.me</text>
   <use href="#key" transform="scale(0.1)" fill="#000" x="3800" y="4500" />
