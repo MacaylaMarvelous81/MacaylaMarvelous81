@@ -209,7 +209,8 @@
   <text fill="#fff" x="80" y="428" font-family="Hurme" font-size="25">jomarm@jomarm.tech</text>
   <use href="#calendar-days" x="400" y="101" color="#fff" transform="scale(2.5)" />
   <text fill="#fff" x="1070" y="295" font-family="Hurme" font-size="35" font-weight="600">Availability</text>
-  <text fill="#fff" x="1070" y="350" font-family="Hurme" font-size="25">No events right now.</text>
+  <text fill="#fff" x="1070" y="350" font-family="Hurme" font-size="25">Sep. 29, 2023</text>
+  <text fill="#fff" x="1070" y="375" font-family="Hurme" font-size="25">4pm - 6pm ~ Unavailable</text>
   <use href="#clock" x="200" y="101" color="#fff" transform="scale(2.5)" />
   <text fill="#fff" x="560" y="280" font-family="Hurme" font-size="30" font-weight="600">Timezone</text>
   <text fill="#fff" x="560" y="305" font-family="Hurme" font-size="25">Pacific Time</text>
