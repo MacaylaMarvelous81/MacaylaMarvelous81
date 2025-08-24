@@ -1,6 +1,11 @@
-![social: @jomarm@blahaj.zone, email: jomarm@jomarm.com](https://www.jomarm.com/draw/github-banner)
-[Waterfall Pond tileset](https://www.spriters-resource.com/game_boy_advance/pokemonmysterydungeonredrescueteam/sheet/85450/)
-ripped by SilverDeoxys563, &copy; SPIKE CHUNSOFT  
-[Charizard Mega X sprites](https://sprites.pmdcollab.org/#/0006?form=1) by Kevin0itachi is licensed
-under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1), changed by change
-in color
+Certain repositories may also be available at
+[git.jomarm.com](https://git.jomarm.com). Repositories may only be publicly
+viewed there; it is not a source forge, and lacks certain functions that GitHub
+has, such as issue trackers.
+
+Always feel free to contact me by email at
+[jomarm@jomarm.com](mailto:jomarm@jomarm.com). I also accept contributions by
+email; send me a git bundles or patches, and be sure to indicate what project
+it's for. Since email contacts me directly, keep in mind that other
+contributors may not be privy to your work until it's merged; but it also
+makes it simpler for me to keep track of.
