@@ -1,11 +1,13 @@
-Certain repositories may also be available at
-[git.jomarm.com](https://git.jomarm.com). Repositories may only be publicly
-viewed there; it is not a source forge, and lacks certain functions that GitHub
-has, such as issue trackers.
+Please, feel free to contact me by email at <jomarm@jomarm.com>. I also accept
+contributions by email; send me a git bundle or patches, and be sure to
+indicate what project it's for. Since email contacts me directly, keep in mind
+that other contributors may not be of your work until it's merged.
 
-Always feel free to contact me by email at
-[jomarm@jomarm.com](mailto:jomarm@jomarm.com). I also accept contributions by
-email; send me a git bundles or patches, and be sure to indicate what project
-it's for. Since email contacts me directly, keep in mind that other
-contributors may not be privy to your work until it's merged; but it also
-makes it simpler for me to keep track of.
+Though not a requirement, I would prefer that emails I receive be PGP signed
+or encrypted. My public key is available via WKD or the URL
+<https://jomarm.com/key.asc>. It should match the following fingerprint:
+
+`F954 C5C9 5AE7 A312 183D  A76C 6AC4 6A6F 9A56 18D8`
+
+If you do decide to use PGP, it would be great to inform me on where to find
+your public key, or even just attach it to the email.
