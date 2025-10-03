@@ -1,7 +1,7 @@
 Please, feel free to contact me by email at <jomarm@jomarm.com>. I also accept
 contributions by email; send me a git bundle or patches, and be sure to
 indicate what project it's for. Since email contacts me directly, keep in mind
-that other contributors may not be of your work until it's merged.
+that other contributors may not be aware of your work until it's merged.
 
 Though not a requirement, I would prefer that emails I receive be PGP signed
 or encrypted. My public key is available via WKD or the URL
